@@ -4,5 +4,6 @@
 
 int main(){
 
-printf(%d "go to hell");
+printf(%d "i am sorry");
+printf(%d "have fun");
 }
